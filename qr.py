@@ -1,8 +1,8 @@
 # устанавливаем Pillow для обработки изображений: 
-pip install pillow
+# pip3 install pillow
 
 # устанавливаем нужный модуль:
-pip install qrcode[pil]
+# pip3 install qrcode[pil]
 
 # создаем QR-код:
 import qrcode
